@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d185fc9-bd63-49d0-a3a0-125b8fd06b8c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Diseño_ejecion/test case PetAnimal.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Diseño_ejecion/test case PetAnimal.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diseño_ejecion/test_case _PetAnimal.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Karate/Pet/DeletePet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Karate/Pet/GETFindPetById.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Karate/Pet/POSTAddPet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Karate/Pet/PUTUpdatePet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/karate-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/karate-properties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/karate/Pet/AddPet.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/karate/Pet/AddPetERROR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/karate/Pet/DeleteERROR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/karate/Pet/DeleteOk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/karate/Pet/DeletePet.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/karate/Pet/FindPedById.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/karate/Pet/FindPetById.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/karate/Pet/UpdatePet.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/karate/Pet/UpdateResponses.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlaceHolder/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlaceHolder/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlaceHolder/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlaceHolder/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlaceHolder/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlaceHolder/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlaceHolder/src/test/java/karate/AllFeaturesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlaceHolder/src/test/java/karate/PlaceHolder/CreateUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlaceHolder/src/test/java/karate/PlaceHolder/UserConsult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlaceHolder/src/test/resources/karate-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlaceHolder/src/test/resources/karate-properties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlaceHolder/src/test/resources/karate/PlaceHolder/CreateUser.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlaceHolder/src/test/resources/karate/PlaceHolder/User.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlaceHolder/src/test/resources/karate/PlaceHolder/responsesGet.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlaceHolder/src/test/resources/karate/PlaceHolder/responsesPost.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DRchIfR4ZzfF2Vdll8aqHFfrDL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/HP/OneDrive/Escritorio/PetStore/KarateTest/PetStoreKarate/PetStore",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\OneDrive\Escritorio\PetStore\PetStoreKarate\PetStore\src\test\resources\karate\Pet" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DeletePet">
+    <configuration name="karate" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="PetStore" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: UpdatePet" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/karate/Pet/UpdatePet.feature" />
+      <option name="GLUE" value="com.intuit.karate" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="PetStore" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: UpdatePet" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeletePet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PetStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Karate.Pet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Karate.Pet" />
+      <option name="MAIN_CLASS_NAME" value="Karate.Pet.DeletePet" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GETFindPetById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PetStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Karate.Pet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Karate.Pet" />
+      <option name="MAIN_CLASS_NAME" value="Karate.Pet.GETFindPetById" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POSTAddPet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PetStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Karate.Pet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Karate.Pet" />
+      <option name="MAIN_CLASS_NAME" value="Karate.Pet.POSTAddPet" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PUTUpdatePet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PetStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Karate.Pet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Karate.Pet" />
+      <option name="MAIN_CLASS_NAME" value="Karate.Pet.PUTUpdatePet" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.karate" />
+      <item itemvalue="Cucumber Java.Feature: UpdatePet" />
+      <item itemvalue="JUnit.DeletePet" />
+      <item itemvalue="JUnit.GETFindPetById" />
+      <item itemvalue="JUnit.PUTUpdatePet" />
+      <item itemvalue="JUnit.POSTAddPet" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DeletePet" />
+        <item itemvalue="JUnit.POSTAddPet" />
+        <item itemvalue="JUnit.GETFindPetById" />
+        <item itemvalue="JUnit.PUTUpdatePet" />
+        <item itemvalue="Cucumber Java.Feature: UpdatePet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d185fc9-bd63-49d0-a3a0-125b8fd06b8c" name="Changes" comment="" />
+      <created>1660665457356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660665457356</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
